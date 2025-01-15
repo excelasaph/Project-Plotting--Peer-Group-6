@@ -1,6 +1,6 @@
 # Project Plotting - Matplotlib & Seaborn: Histograms and Boxplots
 
-## Assignment Overview
+## Overview
 This project involves analyzing transportation data, specifically vehicle and fuel efficiency, using Python's data visualization libraries. The objective is to extract insights from the data through diagrams that illustrate relationships between various features.
 
 The analysis is a crucial step in preparing this data for future AI applications.
