@@ -1,6 +1,3 @@
-Here's a possible **README.md** file for your assignment:
-
-```markdown
 # Project Plotting - Matplotlib & Seaborn: Histograms and Boxplots
 
 ## Assignment Overview
